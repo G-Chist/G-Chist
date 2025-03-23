@@ -4,7 +4,7 @@
 
 🔭 **I’m currently studying Computer Science & Robotics Engineering at WPI (Class of 2027)**
 
-🎓 **Planning to pursue a Master’s in Robotics Engineering**
+🎓 **Planning to pursue a Master’s Degree in Robotics Engineering**
 
 🌱 **Passionate about SWE, robotics, ML, and security**
 
