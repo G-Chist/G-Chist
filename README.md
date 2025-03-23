@@ -1,16 +1,13 @@
-## Hi there 👋
+Welcome to my GitHub!
 
-<!--
-**G-Chist/G-Chist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mshestopalov.pythonanywhere.com
 
-Here are some ideas to get you started:
+🔭 I’m currently studying Computer Science & Robotics Engineering at WPI (Class of 2027)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Planning to pursue a Master’s in Robotics Engineering
+
+🌱 I’m learning more about software security, ML, and autonomous systems
+
+🤖 Passionate about SWE, robotics, ML, and security
+
+👯 I’m looking to collaborate on Flask-based web apps and robotics projects
