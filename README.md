@@ -16,4 +16,4 @@
   - [ftc_app](https://github.com/ftctechnh/ftc_app) - starter code for FTC teams
   - [Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial) - TechWithTim's Flask tutorial
   - [morris-worm](https://github.com/arialdomartini/morris-worm) - the Morris Worm's decompiled source code
-  - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings/tree/master) - the list of strings that are likely to cause issues in input fields
+  - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings/tree/master) - the list of strings likely to cause issues in input fields
