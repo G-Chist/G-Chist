@@ -12,7 +12,7 @@
 
 🥮 **Some of my favorite GitHub repositories include:**
   - [d3graphTheory](https://github.com/mrpandey/d3graphTheory) - source code for https://d3gt.com, an interactive graph theory tutorial
-  - [roborock-oucher](https://github.com/porech/roborock-oucher) - a guide on how to replace default sounds for RoboRock robot vacuums
+  - [roborock-oucher](https://github.com/porech/roborock-oucher) - a utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) every time it bumps into something
   - [ftc_app](https://github.com/ftctechnh/ftc_app) - starter code for FTC teams
   - [Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial) - TechWithTim's Flask tutorial
   - [morris-worm](https://github.com/arialdomartini/morris-worm) - the Morris Worm's decompiled source code
