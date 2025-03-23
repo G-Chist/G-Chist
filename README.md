@@ -1,6 +1,6 @@
 Welcome to my GitHub!
 
-mshestopalov.pythonanywhere.com
+[My website](mshestopalov.pythonanywhere.com)
 
 🔭 I’m currently studying Computer Science & Robotics Engineering at WPI (Class of 2027)
 
