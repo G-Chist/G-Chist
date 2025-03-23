@@ -8,4 +8,4 @@ Welcome to my GitHub!
 
 🌱 Passionate about SWE, robotics, ML, and security
 
-👯 I’m looking to collaborate on Flask-based web apps and robotics projects
+👯 I’m looking to collaborate on Flask-based web apps, robotics projects, and capture the flag (CTF) challenges
