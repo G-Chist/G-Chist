@@ -17,3 +17,5 @@
   - [Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial) - TechWithTim's Flask tutorial
   - [morris-worm](https://github.com/arialdomartini/morris-worm) - the Morris Worm's decompiled source code
   - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings/tree/master) - the list of strings likely to cause issues in input fields
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Chist"/>
