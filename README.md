@@ -18,4 +18,4 @@
   - [morris-worm](https://github.com/arialdomartini/morris-worm) - the Morris Worm's decompiled source code
   - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings/tree/master) - the list of strings likely to cause issues in input fields
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Chist&layout=donut-vertical&theme=shadow_green&hide_border=true&no-bg=false&no-frame=true&show_icons=true&langs_count=8"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Chist&layout=donut-vertical&theme=shadow_green&hide_border=true&background=f2f2f2&no-bg=false&no-frame=true&show_icons=true&langs_count=8"/>
