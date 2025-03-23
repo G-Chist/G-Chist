@@ -11,7 +11,7 @@
 👯 **I’m looking to collaborate on Flask-based web apps, robotics projects, and capture the flag (CTF) challenges**
 
 🥮 **Some of my favorite GitHub repositories include:**
-  - [d3graphTheory](https://github.com/mrpandey/d3graphTheory) - source code for (d3gt.com)[https://d3gt.com], an interactive graph theory tutorial
+  - [d3graphTheory](https://github.com/mrpandey/d3graphTheory) - source code for https://d3gt.com, an interactive graph theory tutorial
   - [roborock-oucher](https://github.com/porech/roborock-oucher) - a guide on how to replace default sounds for RoboRock robot vacuums
   - [ftc_app](https://github.com/ftctechnh/ftc_app) - starter code for FTC teams
   - [Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial) - TechWithTim's Flask tutorial
