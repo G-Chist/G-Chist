@@ -9,3 +9,5 @@
 **Passionate about SWE, robotics, ML, and security**
 
 **I’m looking to collaborate on Flask-based web apps, robotics projects, and capture the flag (CTF) challenges**
+
+**Want to contact me? email komp.lord@gmail.com**
