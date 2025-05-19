@@ -12,4 +12,3 @@
   <img src="https://vercel-g-chists-projects.vercel.app/api/top-langs/?username=G-Chist&exclude_repo=vercel&theme=dark&langs_count=30&layout=compact&hide_forks=false" alt="Top Langs" />
   <img src="https://vercel-g-chists-projects.vercel.app/api?username=G-Chist&rank_icon=github&theme=dark" alt="GitHub Stats" />
 </p>
-
