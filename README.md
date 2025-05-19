@@ -6,7 +6,7 @@
 
 **Want to contact me? email komp.lord@gmail.com**
 
-| ## Areas of Interest |        
+| Areas of Interest |        
 |----------------------------|
 | <div align = "center"> Software Engineering </div> |
 | <div align = "center"> Robotics Engineering </div> |
