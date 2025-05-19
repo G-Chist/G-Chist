@@ -8,6 +8,6 @@
 
 **Want to contact me? email komp.lord@gmail.com**
 
-[![Top Langs](https://vercel-g-chists-projects.vercel.app/api/top-langs/?username=G-Chist&exclude_repo=vercel&theme=dark&langs_count=30&layout=donut&hide_forks=false)](https://github.com/G-Chist/github-readme-stats)
+[![Top Langs](https://vercel-g-chists-projects.vercel.app/api/top-langs/?username=G-Chist&exclude_repo=vercel&theme=dark&langs_count=30&layout=compact&hide_forks=false)](https://github.com/G-Chist/github-readme-stats)
 
 ![My GitHub stats](https://vercel-g-chists-projects.vercel.app/api?username=G-Chist&rank_icon=github&theme=dark)
