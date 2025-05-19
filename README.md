@@ -11,4 +11,4 @@
   <img src="https://vercel-g-chists-projects.vercel.app/api?username=G-Chist&rank_icon=github&theme=dark" alt="GitHub Stats" height="200" style="vertical-align: middle;" />
 </p>
 
-# [My website](https://mshestopalov.pythonanywhere.com)
+# [Visit my website](https://mshestopalov.pythonanywhere.com)
