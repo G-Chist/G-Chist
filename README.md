@@ -7,8 +7,8 @@
 **Want to contact me? email komp.lord@gmail.com**
 
 <p align="left">
-  <img src="https://vercel-g-chists-projects.vercel.app/api/top-langs/?username=G-Chist&exclude_repo=vercel&theme=dark&langs_count=30&layout=compact&hide_forks=false" alt="Top Langs" height="200" style="vertical-align: middle;" />
-  <img src="https://vercel-g-chists-projects.vercel.app/api?username=G-Chist&rank_icon=github&theme=dark" alt="GitHub Stats" height="200" style="vertical-align: middle;" />
+  <img src="https://vercel-1z331zk1t-g-chists-projects.vercel.app/api/top-langs/?username=G-Chist&exclude_repo=vercel&theme=dark&langs_count=30&layout=compact&hide_forks=false" alt="Top Langs" height="200" style="vertical-align: middle;" />
+  <img src="https://vercel-1z331zk1t-g-chists-projects.vercel.app/api?username=G-Chist&rank_icon=github&theme=dark" alt="GitHub Stats" height="200" style="vertical-align: middle;" />
 </p>
 
 # [Visit my website](https://mshestopalov.pythonanywhere.com)
