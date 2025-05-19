@@ -6,9 +6,17 @@
 
 **Want to contact me? email komp.lord@gmail.com**
 
-<p align="left">
-  <img src="https://vercel-opal-phi.vercel.app/api/top-langs/?username=G-Chist&exclude_repo=vercel&theme=dark&langs_count=30&layout=compact&hide_forks=false" alt="Top Langs" height="220" style="vertical-align: middle;" />
-  <img src="https://vercel-opal-phi.vercel.app/api?username=G-Chist&rank_icon=github&theme=dark" alt="GitHub Stats" height="220" style="vertical-align: middle;" />
-</p>
+### 🧠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![PyGAD](https://img.shields.io/badge/-PyGAD-5D3FD3?style=flat&logo=python&logoColor=white)
 
 # [Visit my website](https://mshestopalov.pythonanywhere.com)
