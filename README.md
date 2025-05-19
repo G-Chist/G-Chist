@@ -6,12 +6,6 @@
 
 **Want to contact me? email komp.lord@gmail.com**
 
-| Areas of Interest |        
-|----------------------------|
-| <div align = "center"> Software Engineering </div> |
-| <div align = "center"> Robotics Engineering </div> |
-| <div align = "center"> Machine Learning </div>     |
-
 <p align="left">
   <img src="https://vercel-g-chists-projects.vercel.app/api/top-langs/?username=G-Chist&exclude_repo=vercel&theme=dark&langs_count=30&layout=compact&hide_forks=false" alt="Top Langs" height="200" style="vertical-align: middle;" />
   <img src="https://vercel-g-chists-projects.vercel.app/api?username=G-Chist&rank_icon=github&theme=dark" alt="GitHub Stats" height="200" style="vertical-align: middle;" />
