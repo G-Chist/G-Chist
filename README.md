@@ -8,4 +8,4 @@
 
 **Want to contact me? email komp.lord@gmail.com**
 
-[![Top Langs](https://vercel-g-chists-projects.vercel.app/api/top-langs/?username=G-Chist)](https://github.com/G-Chist/github-readme-stats)
+[![Top Langs](https://vercel-g-chists-projects.vercel.app/api/top-langs/?username=G-Chist&exclude_repo=vercel)](https://github.com/G-Chist/github-readme-stats)
