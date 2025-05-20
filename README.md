@@ -6,18 +6,5 @@
 
 **Want to contact me? email komp.lord@gmail.com**
 
-### Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/python/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/java/java.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/postgresql/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/c/c.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/cpp/cpp.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/matlab/matlab.svg" alt="MATLAB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/elixir/elixir.svg" alt="Elixir" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/flask/flask.svg" alt="Flask" width="40" height="40"/>
-</p>
-
 
 # [Visit my website](https://mshestopalov.pythonanywhere.com)
