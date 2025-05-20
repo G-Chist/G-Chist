@@ -8,15 +8,20 @@
 
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![PyGAD](https://img.shields.io/badge/-PyGAD-5D3FD3?style=flat&logo=python&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/python/python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/java/java.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/postgresql/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/mysql/mysql.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/c/c.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/cpp/cpp.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/matlab/matlab.svg" alt="MATLAB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/elixir/elixir.svg" alt="Elixir" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/flask/flask.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/python/python.svg" alt="PyGAD" width="40" height="40" title="PyGAD (Python-based)"/>
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/solidworks/solidworks.svg" alt="SolidWorks" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/fusion360/fusion360.svg" alt="Fusion 360" width="40" height="40"/>
+</p>
+
 
 # [Visit my website](https://mshestopalov.pythonanywhere.com)
