@@ -19,6 +19,9 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E02127?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F29305?style=for-the-badge&logo=autodesk&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-2C8DBF?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 # [Visit my website](https://mshestopalov.pythonanywhere.com)
