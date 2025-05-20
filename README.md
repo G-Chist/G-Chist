@@ -12,7 +12,6 @@
   <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/python/python.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/java/java.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/postgresql/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/mysql/mysql.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/c/c.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/cpp/cpp.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/matlab/matlab.svg" alt="MATLAB" width="40" height="40"/>
