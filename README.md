@@ -17,8 +17,7 @@
   <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/cpp/cpp.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/matlab/matlab.svg" alt="MATLAB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/elixir/elixir.svg" alt="Elixir" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/flask/flask.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/python/python.svg" alt="PyGAD" width="40" height="40" title="PyGAD (Python-based)"/>
+  <img src="https://github.com/dheereshagrwal/coloured-icons/blob/master/public/logos/technology/flask/flask.svg" alt="Flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/solidworks/solidworks.svg" alt="SolidWorks" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/master/public/logos/technology/fusion360/fusion360.svg" alt="Fusion 360" width="40" height="40"/>
 </p>
