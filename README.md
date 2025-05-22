@@ -4,6 +4,8 @@
 
 **Planning to pursue a Master’s Degree in Robotics Engineering**
 
+**Looking for a SWE / Robotics internship/coop!**
+
 **Want to contact me? email komp.lord@gmail.com**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
