@@ -4,7 +4,7 @@
 
 **Planning to pursue a Master’s Degree in Robotics Engineering**
 
-**Looking for a SWE / Robotics internship/coop!**
+**Looking for a SWE / Robotics internship or coop!**
 
 **Want to contact me? email komp.lord@gmail.com**
 
