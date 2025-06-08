@@ -4,7 +4,7 @@
 
 **Planning to pursue a Master’s Degree in Robotics Engineering**
 
-**Looking for a computer science / robotics - related internship or coop!**
+**Looking for a computer science / robotics - related internship or co-op!**
 
 **Want to contact me? email komp.lord@gmail.com**
 
