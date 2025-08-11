@@ -2,6 +2,8 @@
 
 **I’m currently studying Computer Science & Robotics Engineering at [WPI](https://www.wpi.edu/) (Class of 2027)**
 
+**Interested in engineering, machine learning, optimization problems, and procedural generation!**
+
 **Planning to pursue a Master’s Degree in Robotics Engineering**
 
 **Looking for a computer science / robotics - related internship or co-op!**
