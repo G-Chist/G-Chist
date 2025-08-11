@@ -1,14 +1,16 @@
 # Hello everyone!
 
-**I’m currently studying Computer Science & Robotics Engineering at [WPI](https://www.wpi.edu/) (Class of 2027)**
+I’m currently studying Computer Science & Robotics Engineering at [WPI](https://www.wpi.edu/) (Class of 2027)
 
-**Interested in engineering, machine learning, optimization problems, and procedural generation; I mostly use Python :)**
+Interested in engineering, machine learning, optimization problems, and procedural generation; I mostly use Python :)
 
-**Planning to pursue a Master’s Degree in Robotics Engineering**
+I read philosophy, travel, and write for Wikipedia in my free time
 
-**Looking for a computer science / robotics - related internship or co-op!**
+Planning to pursue a Master’s Degree in Robotics Engineering
 
-**Want to contact me? email komp.lord@gmail.com**
+Looking for a computer science / robotics - related internship or co-op!
+
+Want to contact me? email komp.lord@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
