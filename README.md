@@ -4,7 +4,7 @@ I’m currently studying Computer Science & Robotics Engineering at [WPI](https:
 
 Interested in engineering, machine learning, optimization problems, and procedural generation; I mostly use Python :)
 
-I read philosophy, travel, play video games, and write for Wikipedia in my free time
+I read philosophy, travel, play video games, and edit Wikipedia in my free time
 
 Planning to pursue a Master’s Degree in Robotics Engineering
 
