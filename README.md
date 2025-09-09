@@ -2,7 +2,7 @@
 
 I’m currently studying Computer Science & Robotics Engineering at [WPI](https://www.wpi.edu/) (Class of 2027)
 
-Interested in engineering, machine learning, optimization problems, and procedural generation; I mostly use Python :)
+Interested in robotics engineering, machine learning, evolutionary computation, and computer graphics; I mostly use Python :)
 
 I read philosophy, travel, play video games, and edit Wikipedia in my free time
 
