@@ -6,8 +6,6 @@ Interested in robotics engineering, machine learning, evolutionary computation, 
 
 I read philosophy, travel, play video games, and edit Wikipedia in my free time
 
-Planning to pursue a Master’s Degree in Robotics Engineering
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
